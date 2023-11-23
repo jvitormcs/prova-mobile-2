@@ -4,7 +4,9 @@
 
 ### Como instalar
 
-Com o yarn
+Com o yarn: 
+
+instalando os pacotes:
 ```shell
 yarn 
 ```
@@ -15,6 +17,7 @@ yarn start
 
 Com o npm
 
+instalando os pacotes:
 ```shell
 npm i  
 ```
