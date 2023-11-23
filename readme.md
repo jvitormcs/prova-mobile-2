@@ -19,7 +19,7 @@ Com o npm
 
 instalando os pacotes:
 ```shell
-npm i  
+npm i -f
 ```
 para rodar 
 
